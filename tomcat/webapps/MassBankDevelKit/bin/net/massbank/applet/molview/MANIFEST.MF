@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Version: 1.0.0 2014.02.01
-Implementation-Vendor: MassBank Project
-Main-Class: net.massbank.applet.molview.MolView
